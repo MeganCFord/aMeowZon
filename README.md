@@ -14,7 +14,6 @@ $ git clone https://github.com/MeganCFord/aMeowZon.git
 $ cd aMeowZon  
 $ python meow.py
 ```
-serve on local server of choice: http-server is an app dependency.
 
 ---------
 
