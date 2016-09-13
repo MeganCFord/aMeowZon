@@ -10,8 +10,8 @@ Written with [Joseph Kane](https://github.com/josephkane), [Chase Ramsey](https:
 ## Install 
 
 ```
-$ git clone 
-$ cd Food-Fight  
+$ git clone https://github.com/MeganCFord/aMeowZon.git
+$ cd aMeowZon  
 $ python meow.py
 ```
 serve on local server of choice: http-server is an app dependency.
